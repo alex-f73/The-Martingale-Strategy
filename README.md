@@ -2,7 +2,8 @@
 
 Doubling your bet when you lose.
 
-![animation1](https://github.com/user-attachments/assets/e6300e85-0ed6-4222-a7af-b412bd16f4cf)
+[martingale_simulation.webm](https://github.com/user-attachments/assets/00c7962d-bf0a-410b-b20e-1d9cb26743a0)
+
 
 
 ## How the Martingale System Works 📘
