@@ -10,7 +10,7 @@ Doubling your bet when you lose.
 
 This simulation models the Martingale betting strategy using European roulette as the game.
 
-The classic Martingale ("doubling") system works as follows:
+The classic Martingale ("doubling") strategy works as follows:
 1. The player starts by betting one unit on a simple chance (e.g., Red/Black, Even/Odd, or 1–18).
 2. If the player **loses**, they double the previous bet.
 3. If the player **wins**, they get back all previous losses and earn a net profit of one unit.
