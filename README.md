@@ -6,7 +6,7 @@ Doubling your bet when you lose.
 
 
 
-## How the Martingale System Works 📘
+## How the Martingale Strategy Works 📘
 
 This simulation models the Martingale betting strategy using European roulette as the game.
 
