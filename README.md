@@ -1,6 +1,6 @@
 # The Martingale Strategy 🎰
 
-A Monte Carlo simulation of the classic Martingale betting strategy, implemented in Python.
+Doubling your bet when you lose
 
 <video controls src="martingale_simulation.MP4" title="Simulation"></video>
 
