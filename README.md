@@ -1,6 +1,6 @@
 # The Martingale Strategy 🎰
 
-Doubling your bet when you lose
+Doubling your bet when you lose.
 
 <video controls src="martingale_simulation.MP4" title="Simulation"></video>
 
