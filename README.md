@@ -4,8 +4,6 @@ Doubling your bet when you lose.
 
 [martingale_simulation.webm](https://github.com/user-attachments/assets/00c7962d-bf0a-410b-b20e-1d9cb26743a0)
 
-
-
 ## How the Martingale Strategy Works 📘
 
 This simulation models the Martingale betting strategy using European roulette as the game.
