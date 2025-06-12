@@ -16,6 +16,9 @@ The classic Martingale ("doubling") strategy works as follows:
 3. If the player **wins**, they get back all previous losses and earn a net profit of one unit.
 4. After a win, the process resets to a one-unit bet.
 
+![document_page-0001 2](https://github.com/user-attachments/assets/d5680a3e-2113-49cb-8b64-0162d302394d)
+
+
 ## Install Dependencies :gear:
 Install important packages for scientific work (`scipy`, `numpy`, `matplotlib`, `pandas`) using:
 
